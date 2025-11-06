@@ -10,6 +10,7 @@ A lightweight, open-source deep learning model to classify human faces as **real
 🧠 **Model:** `SADRACODING/SDXL-Deepfake-Detector` on [Hugging Face](https://huggingface.co/SADRACODING/SDXL-Deepfake-Detector)  
 📁 **Code & Repo:** [GitHub Repository](https://github.com/SadraCoding/SDXL-Deepfake-Detector)  
 📄 **License:** [MIT](LICENSE) — Free for research and commercial use
+
 ![border.jpg](media/border.jpg)
 
 ---
