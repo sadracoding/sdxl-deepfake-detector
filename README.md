@@ -64,7 +64,7 @@ pip install -r requirements.txt
 ### 2. Run the model
 
 ```bash
-python model/predict.py --image ./example.jpg #Replace your image directory
+python model/predict.py --image ./example.jpg #Replace it with your image directory
 ```
 
 ## How to train model
