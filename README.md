@@ -6,8 +6,8 @@
 
 A lightweight, open-source deep learning model to classify human faces as **real (human)** or **AI-generated (deepfake)** using a fine-tuned Vision Transformer. Developed for privacy, accuracy, and ethical AI.
 
-🔧 **Developed by:** [Sadra Milani Moghaddam](https://sadramilani.ir)  
-🧠 **Model:** `SADRACODING/SDXL-Deepfake-Detector` on [Hugging Face](https://huggingface.co/SADRACODING/SDXL-Deepfake-Detector)  
+🔧 **Developed by:** [SadraCoding](https://github.com/SadraCoding)  
+🧠 **Model:** `SADRACODING/SDXL-Deepfake-Detector` on [HuggingFace](https://huggingface.co/SADRACODING/SDXL-Deepfake-Detector)  
 📁 **Code & Repo:** [GitHub Repository](https://github.com/SadraCoding/SDXL-Deepfake-Detector)  
 📄 **License:** [MIT](LICENSE) — Free for research and commercial use
 
