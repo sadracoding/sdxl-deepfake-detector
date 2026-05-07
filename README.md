@@ -34,7 +34,7 @@ It was created by fine-tuning [`Organika/sdxl-detector`](https://huggingface.co/
 
 ### ✅ Key Features
 
-- **High Accuracy**: **86%** test accuracy on balanced real/fake data.
+- **High Accuracy**: **97%** test accuracy on balanced real/fake data.
 - **Efficient Training**: Trained on a single **RTX 3060 (12GB VRAM)** — no need for large-scale infrastructure.
 - **Offline Inference**: Runs entirely locally — your images never leave your device.
 - **Lightweight & Modular**: Easy to integrate, extend, or fine-tune further.
